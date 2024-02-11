@@ -1,0 +1,11 @@
+[effect_bomb]
+priority: veryhigh
+life: 120
+attachedToUnit: false
+image: bomb.png
+scaleFrom: 3.5
+scaleTo: 3.6
+total_frames: 10
+animateFrameStart: 0
+animateFrameEnd: 9
+animateFrameSpeed: 0.2

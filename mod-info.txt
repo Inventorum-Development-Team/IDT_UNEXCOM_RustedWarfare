@@ -1,0 +1,6 @@
+[mod]
+title: UNEXCOM
+
+tags: Join the UNEXCOM in its crusade to defend Earth!
+
+#thumbnail: mod logo.png

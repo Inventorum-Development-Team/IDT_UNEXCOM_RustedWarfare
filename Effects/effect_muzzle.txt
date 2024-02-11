@@ -1,0 +1,9 @@
+[effect_开火特效]
+life:7
+image:机枪开火.png
+total_frames:6
+animateFrameStart: 0
+animateFrameEnd: 5
+animateFrameSpeed:0.75
+attachedToUnit:true
+drawUnderUnits:false
